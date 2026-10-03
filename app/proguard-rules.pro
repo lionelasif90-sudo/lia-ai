@@ -1,0 +1,6 @@
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn org.json.**
+-keep class org.json.** { *; }
+-keepattributes *Annotation*
+-keep class com.Lia.assistant.voice.VoiceForegroundService

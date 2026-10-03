@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Play flavor: nothing extra. No accessibility service, no overlay, no QUERY_ALL_PACKAGES. -->
+</manifest>

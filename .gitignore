@@ -1,0 +1,10 @@
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+keystore.properties
+*.jks
+*.keystore
+google-services.json
+lia-license.properties
